@@ -19,6 +19,7 @@ To use this project, you can follow these steps:
 ## Example Output
 ![midtermphp](https://github.com/kathleenforgiarini/php_internet_providers_rating_array/assets/82175930/700924f6-fe28-4ca4-ac24-06cb46e80578)
 ![midtermphp2](https://github.com/kathleenforgiarini/php_internet_providers_rating_array/assets/82175930/da81dab3-7f5b-48f4-9b97-ca1163e8eee7)
+![Captura de tela 2023-10-25 171416](https://github.com/kathleenforgiarini/php_internet_providers_rating_array/assets/82175930/e5e1933d-b300-4bbb-85d7-6e0e2216049d)
 
 ## Contributing
 This project is for educational purposes and demonstration. Contributions are welcome if you have suggestions or improvements. Feel free to fork the repository, make your changes, and create a pull request.
